@@ -1,3 +1,7 @@
+![image](https://github.com/user-attachments/assets/d87079ef-8f7a-4ef5-b7e5-cf3044de9bf5)
+
+
+
 # 🌟 Gracias por visitarme
 
 ¡Bienvenidos a mi perfil! Soy Ezequiel, un desarrollador de alicaciones web con pasión por el frontend al que le encanta dar vida a las interfaces. No obstante, también tengo ambición por expandir mis habilidades al backend para ser un desarrollador más completo (ya con Django me manejo que ni yo me lo creo). Quiero aprender todo lo que pueda mientras pueda, y lo que no supla mi talento, lo hará mi ilusión y voluntad, que de eso tengo cuerda para rato.
