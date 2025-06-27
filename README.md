@@ -61,8 +61,7 @@ Diría que mi forma de trabajo apuesta por la creatividad, la atención al detal
 <p align="center">
 <a href="https://github.com/ezequiel9git">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ezequiel9git&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ezequiel9git&layout=compact&langs_count=8&theme=algolia"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezequiel9git&theme=algolia" alt="Ezequiel's Streak Stats"  />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ezequiel9git&layout=compact&langs_count=8&theme=algolia"/>  
 </a>
 </p>
 
@@ -71,9 +70,9 @@ Diría que mi forma de trabajo apuesta por la creatividad, la atención al detal
 ## 📫 Contáctame
 Si quieres hablar sobre desarrollo web, colaborar en un proyecto o simplemente compartir ideas, ¡contacta conmigo! 
 
-✉️ **Email:** [ezequielparradolopez@gmail.com]  
-💼 **LinkedIn:** [Consulta mi perfil](https://www.linkedin.com/in/ezequiel-parrado-l%C3%B3pez/)  
-📂 **Portafolio:** Aún por establecer.
+- ✉️ **Email:** ezequielparradolopez@gmail.com
+- 💼 **LinkedIn:** [Consulta mi perfil](https://www.linkedin.com/in/ezequiel-parrado-l%C3%B3pez/)  
+- 📂 **Portafolio:** [Consúltalo aquí](https://ezequielparrado.vercel.app/)
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ezequiel-parrado-l%C3%B3pez/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
